@@ -19,7 +19,7 @@
     "node-image-resizer": "^1.0.0",
     "parser": "^0.1.4",
     "req-flash": "0.0.3",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "main": "app.js",
   "devDependencies": {},
